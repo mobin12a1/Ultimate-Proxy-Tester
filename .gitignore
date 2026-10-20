@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Locally supplied proxies and generated results
+proxies.txt
+*.proxy
+result.txt
+result.json
+results/
+GeoLite2-City.mmdb
+*.mmdb
+
+# Editors & OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

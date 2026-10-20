@@ -1,0 +1,6 @@
+# Replace these examples with authorized proxy endpoints.
+# Comment lines are examples only; the script currently ignores invalid lines.
+# 192.0.2.10:8080
+# http://192.0.2.20:3128
+# socks5://198.51.100.10:1080
+# username:password@203.0.113.10:1080
